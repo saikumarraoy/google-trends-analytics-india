@@ -142,7 +142,7 @@ The script generates a 5-panel visualisation:
 
 **Yennamaneni Sai Kumar**  
 B.Tech Data Science | Anurag University, 2025  
-📧 Sairao3666@gmail.com
+📧 Saikumarrao.yennamaneni@gmail.com
 
 ---
 
